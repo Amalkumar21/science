@@ -10,7 +10,7 @@ html,body{
   width: 100%;
   height: 200px;
   border: px solid black;
-  background-image: url('photo/background.jpg');
+  background-image: url('background.jpg');
   background-size: cover;
 }
 #header img{
@@ -79,7 +79,7 @@ html,body{
   width: 90%;
   height: 180px;
   border: px solid black
-  background-image: url('photo/img1.jpg');
+  background-image: url('img1.jpg');
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
   margin-left: 15px;
@@ -88,19 +88,19 @@ html,body{
 }
 @keyframes changeimage{
   0%{
-    background-image: url('photo/img1.jpg');
+    background-image: url('img1.jpg');
   }
   25%{
-    background-image: url('photo/img2.jpeg');
+    background-image: url('img2.jpeg');
   }
   50%{
-    background-image: url('photo/img3.jpeg');
+    background-image: url('img3.jpeg');
   }
   75%{
-    background-image: url('photo/img4.jpeg');
+    background-image: url('img4.jpeg');
   }
   100%{
-    background-image: url('photo/img5.jpeg');
+    background-image: url('img5.jpeg');
   }
 }
 .agri h3{
